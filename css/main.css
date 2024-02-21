@@ -84,7 +84,7 @@ html {
 }
 
 .container .box-container .box .btn:hover{
-    letter-spacing: 1px;
+    letter-spacing: 0.25px;
 }
 
 .container .box-container .box:hover{
